@@ -4,7 +4,7 @@
 <p align="left">Data Scientist with 3+ years of experience and have comprehensive industry knowledge in performing Data Extraction,  Visualisation/Dashborads , Statistical Modelling of structured and unstructured datasets as well as
 implementing large-scale Machine Learning and Deep Learning Algorithms to deliver resourceful solutions solving real-world practical
 business problems.</p>
-<img align="right" alt="coding" width="400" src= "https://miro.medium.com/max/1400/0*oHwW14arOJOAy7Pm.gif">
+
 
 
 
